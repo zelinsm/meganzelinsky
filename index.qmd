@@ -2,7 +2,7 @@
 title: "Welcome!"
 ---
 
-![](images/Headshot2021.jpg){.circle-photo}
+![](images/circle-headshot.png){.circle-photo}
 
 Hi, I’m **Megan Zelinsky**—a clinical researcher and neuroethicist dedicated to improving research and care for patients with neurological disorders. I specialize in patient-centered research, neurosurgical treatment outcomes, and ethical challenges in clinical and research settings. I work at the intersection of clinical research and ethics, with a focus on advancing meaningful outcomes for patients.
 
@@ -22,7 +22,7 @@ I’d love to connect! You can reach me at:
 ## Find Me Online
 
 -   [LinkedIn](https://www.linkedin.com/in/megan-zelinsky-0468321b5/)
--   [@CLEcatproject on Instagram](https://www.instagram.com/clecatproject/)
+-   [\@CLEcatproject](https://www.instagram.com/clecatproject/)[ on Instagram](https://www.instagram.com/clecatproject/)
 
 ## Recent Highlights
 

@@ -4,7 +4,13 @@ project:
 
 website:
   title: "Megan Zelinsky"
+  description: ""
+  image: images/Headshot2021.jpg
+  favicon: images/favicon.png
+  
   navbar:
+    pinned: true
+    
     left:
       - href: index.qmd
         text: Home
@@ -18,6 +24,13 @@ website:
         text: Publications
       - href: ccp.qmd
         text: Community Engagement
+
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/megan-zelinsky-0468321b5/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:meganezelinsky@gmail.com"  
 
 format:
   html:
