@@ -17,11 +17,11 @@ website:
       - href: about.qmd
         text: About Me
       - href: research.qmd
-        text: Research
+        text: Research Interests
       - href: cv.qmd
         text: Curriculum Vitae
       - href: publications.qmd
-        text: Publications
+        text: Recent Publications
       - href: ccp.qmd
         text: Community Engagement
 
