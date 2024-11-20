@@ -1,0 +1,23 @@
+---
+title: "Recent Publications"
+---
+
+My work spans neuroethics, patient-centered research, and qualitative methodologies. I have contributed to studies exploring ethical challenges in clinical research, patient perspectives on neurological device trials, and the development of frameworks for shared medical appointments.
+
+See a full list of my publications and peer review activity on [ORCiD](https://orcid.org/0000-0001-6964-8794).
+
+## Peer-Reviewed Articles
+
+-   Sankary LR, Rico V, **Zelinsky M**, et al. [Building expert consensus regarding sharing of individual research results in Alzheimer's disease research: a Delphi study protocol.](https://europepmc.org/articles/PMC11344503) *BMJ Open*. 2024;14(8):e089242. Published 2024 Aug 24. doi:10.1136/bmjopen-2024-089242
+-   Anis S, **Zelinsky M**, Shuaib U, et al. [Introducing Virtual Shared Medical Appointments as a Novel Treatment Platform for Functional Movement Disorders.](https://tremorjournal.org/articles/10.5334/tohm.921) *Tremor Other Hyperkinet Mov (N Y)*. 2024;14:36. Published 2024 Jul 4. doi:10.5334/tohm.921
+
+## Empirical Bioethics / Qualitative Studies
+
+-   Morley G, Copley DJ, Field RB, **Zelinsky M**, Albert NM. [A divided community: A descriptive qualitative study of the impact of the COVID-19 pandemic on nurses and their relationships.](https://doi.org/10.1111/jan.15747) *J Adv Nurs*. 2023;79(12):4635-4647. doi:10.1111/jan.15747
+-   Morley G, Copley DJ, Field R, **Zelinsky M**, Albert NM. [RESPONDER: A qualitative study of ethical issues faced by critical care nurses during the COVID-19 pandemic.](https://doi.org/10.1111/jonm.13792) *J Nurs Manag*. 2022;30(7):2403-2415. doi:10.1111/jonm.13792
+
+## Empirical Neuroethics / Qualitative Studies
+
+-   Sankary LR, **Zelinsky M**, Ford PJ, Blackstone EC, Fox RJ. [Overcoming barriers to informed consent in neurological research: Perspectives from a national survey.](https://doi.org/10.1177/17470161221131497) *Res Ethics*. 2023;19(1):42-61. doi:10.1177/17470161221131497
+-   Sankary LR, **Zelinsky M**, Machado A, Rush T, White A, Ford PJ. [Exit from Brain Device Research: A Modified Grounded Theory Study of Researcher Obligations and Participant Experiences.](https://doi.org/10.1080/21507740.2021.1938293) *AJOB Neurosci*. 2022;13(4):215-226. doi:10.1080/21507740.2021.1938293
+

@@ -2,15 +2,253 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Megan Zelinsky",
+    "title": "Welcome!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi, I’m Megan Zelinsky—a clinical researcher and neuroethicist dedicated to improving research and care for patients with neurological disorders. I specialize in patient-centered research, neurosurgical treatment outcomes, and ethical challenges in clinical and research settings. I work at the intersection of clinical research and ethics, with a focus on advancing meaningful outcomes for patients.\nAs a researcher at Cleveland Clinic Neurological Institute, I conduct qualitative analyses, support mixed-methods studies, and explore innovative approaches to aligning research practices with patient values. I am currently pursuing a PhD in Clinical and Translational Science at Case Western Reserve University, where I am building the expertise necessary to advance my work in neuroethics, refine measures of research efficacy, and bridge the gap between research findings and patient care. Grounded in the belief that ethics should guide every aspect of research and care, I also enjoy mentoring students, and lecturing in ethics and neuroethics at the undergraduate and graduate levels.\nI am passionate about integrating ethical principles and patient-centered perspectives into research practices, especially data management and analysis. With a background in biology and bioethics, I’ve dedicated my career to improving outcomes for patients with neurological disorders while advocating for animal welfare as the Executive Director of the Cleveland Community Cat Project.\nWhen I’m not working on research or fostering kittens, I enjoy yoga, reading, and collaborating with like-minded professionals to create meaningful change in both human and animal health."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I work in the Center for Neurological Restoration at Cleveland Clinic Neurological Institute, where I collaborate on patient-centered research studies, conduct qualitative analyses, and integrate neuroethics into our research infrastructure. My work often explores ethical challenges in clinical and research settings, with a focus on vulnerable populations and novel neurosurgical procedures.\nI hold a Master’s degree in Bioethics and Medical Humanities from Case Western Reserve University School of Medicine, where I completed over 240 hours of clinical and ethics rotations in Cleveland-area healthcare systems. My training focused on ethical issues impacting patients with neurological disease and included research ethics, study design, and empirical bioethics methods.\nIn addition to my research, I have lectured at both undergraduate and graduate levels and mentored students pursuing careers in clinical research and bioethics. I am also proud to have completed certifications in standards for clinical data management and clinical project management, which I use to promote the translation of high-quality research into meaningful outcomes for patients.\nOutside of work, I lead the Cleveland Community Cat Project as Executive Director, where I apply evidence-based approaches to support feline welfare and community partnerships. When I’m not working, you can find me fostering kittens, practicing yoga, or reading."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome!",
+    "section": "About Me",
+    "text": "About Me\nI am passionate about integrating ethical principles and patient-centered perspectives into research practices. With a background in biology and bioethics, I’ve dedicated my career to improving outcomes for patients with neurological disorders while advocating for animal welfare as the Executive Director of the Cleveland Community Cat Project.\nWhen I’m not working on research or fostering kittens, I enjoy yoga, reading, and collaborating with like-minded professionals to create meaningful change in both human and animal health."
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Welcome!",
+    "section": "Get in Touch",
+    "text": "Get in Touch\nI’d love to connect! You can reach me at:\n\nPersonal: meganezelinsky@gmail.com\nWork: zelinsm@ccf.org"
+  },
+  {
+    "objectID": "index.html#find-me-online",
+    "href": "index.html#find-me-online",
+    "title": "Welcome!",
+    "section": "Find Me Online",
+    "text": "Find Me Online\n\nLinkedIn\n@CLEcatproject on Instagram"
+  },
+  {
+    "objectID": "index.html#recent-highlights",
+    "href": "index.html#recent-highlights",
+    "title": "Welcome!",
+    "section": "Recent Highlights",
+    "text": "Recent Highlights\n\n🎓 Pursuing my PhD in Clinical and Translational Science at Case Western Reserve University.\n📄 See my recent Publications.\n🐾 Expanding our reach at Cleveland Community Cat Project."
+  },
+  {
+    "objectID": "index.html#education-experience-and-projects",
+    "href": "index.html#education-experience-and-projects",
+    "title": "Welcome!",
+    "section": "Education, Experience, and Projects",
+    "text": "Education, Experience, and Projects\nLearn more:\n\nAbout Me\nResearch Interests\nCurriculum Vitae"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Recent Publications",
+    "section": "",
+    "text": "My work spans neuroethics, patient-centered research, and qualitative methodologies. I have contributed to studies exploring ethical challenges in clinical research, patient perspectives on neurological device trials, and the development of frameworks for shared medical appointments.\nSee a full list of my publications and peer review activity on ORCiD."
+  },
+  {
+    "objectID": "publications.html#orcid",
+    "href": "publications.html#orcid",
+    "title": "Recent Publications",
+    "section": "ORCiD",
+    "text": "ORCiD\nSee a full list of my publications and peer review activity: ORCiD"
+  },
+  {
+    "objectID": "ccp.html",
+    "href": "ccp.html",
+    "title": "Community Engagement",
+    "section": "",
+    "text": "As the Executive Director of the Cleveland Community Cat Project, I am deeply committed to improving the welfare of community cats through evidence-based, sustainable practices. Our all-volunteer organization focuses on Trap-Neuter-Vaccinate-Return (TNVR), fostering, and community education to enhance the quality of life for outdoor and community cats.\nMy role with Cleveland Community Cat Project allows me to combine my professional expertise in research and evidence-based practices with my lifelong passion for animal welfare. When I founded this organization several years ago, it was only with the intent to support my own animal welfare work. It has grown beyond what I ever planned for or expected. I am grateful to have the support of hundreds of volunteers and our incredible community in Cleveland, who keep us going and then some. Leading this organization has taught me the importance of collaboration, community partnerships, and compassion-driven leadership in achieving meaningful change."
+  },
+  {
+    "objectID": "ccp.html#our-mission",
+    "href": "ccp.html#our-mission",
+    "title": "Community Engagement",
+    "section": "Our Mission",
+    "text": "Our Mission\nAt Cleveland Community Cat Project, our mission is to empower communities to care for and coexist with community cats. We achieve this by:\n\nPromoting TNVR as the gold standard for humane population management.\nProviding education and resources to caregivers and community members.\nEnsuring that every cat in our program receives the care and compassion they deserve."
+  },
+  {
+    "objectID": "ccp.html#what-weve-achieved",
+    "href": "ccp.html#what-weve-achieved",
+    "title": "Community Engagement",
+    "section": "What We’ve Achieved",
+    "text": "What We’ve Achieved\nSince our founding, Cleveland Community Cat Project has:\n\nConducted hundreds of TNVR operations annually, preventing the birth of thousands of unwanted kittens.\nBuilt a network of dedicated foster caregivers who provide temporary homes for cats and kittens in need.\nPartnered with local organizations to expand access to affordable veterinary care for underserved populations."
+  },
+  {
+    "objectID": "ccp.html#how-you-can-help",
+    "href": "ccp.html#how-you-can-help",
+    "title": "Community Engagement",
+    "section": "How You Can Help",
+    "text": "How You Can Help\nYou can make a difference in the lives of community cats by:\n\nVolunteering with Cleveland Community Cat Project: Join our team of compassionate caregivers, trappers, and educators.\nDonating: Support our efforts to provide medical care, food, and supplies to cats in need.\nEducating: Advocate for TNVR and responsible cat care in your community."
+  },
+  {
+    "objectID": "ccp.html#explore-more",
+    "href": "ccp.html#explore-more",
+    "title": "Community Engagement",
+    "section": "Explore More",
+    "text": "Explore More\n\nVisit our website to learn more or get involved.\nFind us on Instagram @CLEcatproject or Facebook to see more of what we do!"
+  },
+  {
+    "objectID": "ccp.html#cleveland-community-cat-project",
+    "href": "ccp.html#cleveland-community-cat-project",
+    "title": "Community Engagement",
+    "section": "",
+    "text": "As the Executive Director of the Cleveland Community Cat Project, I am deeply committed to improving the welfare of community cats through evidence-based, sustainable practices. Our all-volunteer organization focuses on Trap-Neuter-Vaccinate-Return (TNVR), fostering, and community education to enhance the quality of life for outdoor and community cats.\nMy role with Cleveland Community Cat Project allows me to combine my professional expertise in research and evidence-based practices with my lifelong passion for animal welfare. When I founded this organization several years ago, it was only with the intent to support my own animal welfare work. It has grown beyond what I ever planned for or expected. I am grateful to have the support of hundreds of volunteers and our incredible community in Cleveland, who keep us going and then some. Leading this organization has taught me the importance of collaboration, community partnerships, and compassion-driven leadership in achieving meaningful change."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "Recent Publications",
+    "section": "Peer-Reviewed Articles",
+    "text": "Peer-Reviewed Articles\n\nSankary LR, Rico V, Zelinsky M, et al. Building expert consensus regarding sharing of individual research results in Alzheimer’s disease research: a Delphi study protocol. BMJ Open. 2024;14(8):e089242. Published 2024 Aug 24. doi:10.1136/bmjopen-2024-089242\nAnis S, Zelinsky M, Shuaib U, et al. Introducing Virtual Shared Medical Appointments as a Novel Treatment Platform for Functional Movement Disorders. Tremor Other Hyperkinet Mov (N Y). 2024;14:36. Published 2024 Jul 4. doi:10.5334/tohm.921"
+  },
+  {
+    "objectID": "publications.html#empirical-bioethics-qualitative-studies",
+    "href": "publications.html#empirical-bioethics-qualitative-studies",
+    "title": "Recent Publications",
+    "section": "Empirical Bioethics / Qualitative Studies",
+    "text": "Empirical Bioethics / Qualitative Studies\n\nMorley G, Copley DJ, Field RB, Zelinsky M, Albert NM. A divided community: A descriptive qualitative study of the impact of the COVID-19 pandemic on nurses and their relationships. J Adv Nurs. 2023;79(12):4635-4647. doi:10.1111/jan.15747\nMorley G, Copley DJ, Field R, Zelinsky M, Albert NM. RESPONDER: A qualitative study of ethical issues faced by critical care nurses during the COVID-19 pandemic. J Nurs Manag. 2022;30(7):2403-2415. doi:10.1111/jonm.13792"
+  },
+  {
+    "objectID": "publications.html#empirical-neuroethics-qualitative-studies",
+    "href": "publications.html#empirical-neuroethics-qualitative-studies",
+    "title": "Recent Publications",
+    "section": "Empirical Neuroethics / Qualitative Studies",
+    "text": "Empirical Neuroethics / Qualitative Studies\n\nSankary LR, Zelinsky M, Ford PJ, Blackstone EC, Fox RJ. Overcoming barriers to informed consent in neurological research: Perspectives from a national survey. Res Ethics. 2023;19(1):42-61. doi:10.1177/17470161221131497\nSankary LR, Zelinsky M, Machado A, Rush T, White A, Ford PJ. Exit from Brain Device Research: A Modified Grounded Theory Study of Researcher Obligations and Participant Experiences. AJOB Neurosci. 2022;13(4):215-226. doi:10.1080/21507740.2021.1938293"
+  },
+  {
+    "objectID": "publications.html#explore-more-orcid",
+    "href": "publications.html#explore-more-orcid",
+    "title": "Recent Publications",
+    "section": "Explore More: ORCiD",
+    "text": "Explore More: ORCiD\nSee a full list of my publications and peer review activity on ORCiD."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Interests",
+    "section": "",
+    "text": "My research focuses on improving the outcomes and ethical frameworks associated with neurological and neurosurgical treatments, with an emphasis on patient-centered care and the translation of research findings into clinical practice. I am particularly interested in the following areas:"
+  },
+  {
+    "objectID": "research.html#neurosurgical-outcomes",
+    "href": "research.html#neurosurgical-outcomes",
+    "title": "Research Interests",
+    "section": "Neurosurgical Outcomes",
+    "text": "Neurosurgical Outcomes\n\nExploring measures of efficacy that align with patient values and lived experiences in neurosurgical procedures, such as Deep Brain Stimulation (DBS) and High-Intensity Focused Ultrasound (HIFU).\nDeveloping robust, patient-centered registries to capture both clinical and experiential data from patients undergoing novel neurological treatments.\nInvestigating long-term impacts and quality-of-life improvements resulting from neurosurgical interventions."
+  },
+  {
+    "objectID": "research.html#neuroethics",
+    "href": "research.html#neuroethics",
+    "title": "Research Interests",
+    "section": "Neuroethics",
+    "text": "Neuroethics\n\nExamining the ethical challenges of patient selection for experimental neurosurgical procedures.\nAddressing informed consent barriers in neurological and neurosurgical research, particularly for vulnerable populations.\nDeveloping ethical frameworks to support decision-making and equitable access in translational neurological research."
+  },
+  {
+    "objectID": "research.html#patient-centered-research",
+    "href": "research.html#patient-centered-research",
+    "title": "Research Interests",
+    "section": "Patient-Centered Research",
+    "text": "Patient-Centered Research\n\nRefining methods to integrate patient values into clinical and research settings, ensuring alignment between research priorities and patient expectations.\nUtilizing mixed-methods and qualitative research to capture the nuanced experiences of patients navigating neurological disorders.\nAdvancing the ethical design and implementation of shared medical appointments as innovative platforms for patient care."
+  },
+  {
+    "objectID": "research.html#translational-research",
+    "href": "research.html#translational-research",
+    "title": "Research Interests",
+    "section": "Translational Research",
+    "text": "Translational Research\n\nBridging the gap between clinical and research practices to enhance the relevance and utility of research findings in patient care.\nInvestigating the process of measure selection in translational neuroscience to ensure outcomes are meaningful to patients and stakeholders.\nPromoting the adoption of implementation science principles to improve the scalability and sustainability of neurological interventions.\n\n\nThese areas of focus reflect my commitment to integrating ethical considerations and patient perspectives into all stages of the research process, from design to dissemination. By prioritizing patient-centered approaches, I aim to advance the quality and impact of research for neurological patient populations."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Below is an overview of my education, research experience, and professional contributions. You can also download a complete version of my CV for more details.\nDownload CV"
+  },
+  {
+    "objectID": "cv.html#research",
+    "href": "cv.html#research",
+    "title": "Curriculum Vitae",
+    "section": "Research",
+    "text": "Research\n\nClinical Research Project Manager\nCenter for Neurological Restoration, Neurological Institute, Cleveland Clinic, Cleveland, OH\n2020 - Present"
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "Curriculum Vitae",
+    "section": "Teaching",
+    "text": "Teaching\n\nLecturer\nColumbia University, New York, NY\n2020 - 2023\nAdjunct Faculty\nCase Western Reserve University, Cleveland, OH\n2022 - 2022\nAdjunct Faculty\nCapital University, Columbus, OH\n2020 - 2022"
+  },
+  {
+    "objectID": "cv.html#animal-welfare",
+    "href": "cv.html#animal-welfare",
+    "title": "Curriculum Vitae",
+    "section": "Animal Welfare",
+    "text": "Animal Welfare\n\nExecutive Director\nCleveland Community Cat Project, Cleveland, OH\n2019 - Current"
+  },
+  {
+    "objectID": "cv.html#editorial-board",
+    "href": "cv.html#editorial-board",
+    "title": "Curriculum Vitae",
+    "section": "Editorial Board",
+    "text": "Editorial Board\n\nJournal of Disability and Health (2024 - Present)"
+  },
+  {
+    "objectID": "cv.html#ad-hoc-peer-review",
+    "href": "cv.html#ad-hoc-peer-review",
+    "title": "Curriculum Vitae",
+    "section": "Ad Hoc Peer Review",
+    "text": "Ad Hoc Peer Review\n\nJournal of Disability and Health\nJournal of Bioethical Inquiry"
+  },
+  {
+    "objectID": "cv.html#membership-in-professional-societies",
+    "href": "cv.html#membership-in-professional-societies",
+    "title": "Curriculum Vitae",
+    "section": "Membership in Professional Societies",
+    "text": "Membership in Professional Societies\n\nInternational Neuroethics Society\nSociety of Clinical Research Associates\nAmerican Society for Bioethics and Humanities"
+  },
+  {
+    "objectID": "cv.html#teaching-activities",
+    "href": "cv.html#teaching-activities",
+    "title": "Curriculum Vitae",
+    "section": "Teaching Activities",
+    "text": "Teaching Activities\n\nInstructor: Neuroscience and Ethics (3-credit graduate course)\nColumbia University School of Professional Studies (BIETPS5350)\nSummer 2023\nLecturer: Inclusivity & Accessibility of Neurotechnology (lecture in Foundations of Bioethics II, 6-credit graduate course)\nCase Western Reserve University School of Medicine (BETH402)\nSpring 2022\nInstructor: Theoretical Ethics and Ethical Argumentation (3-credit undergraduate course)\nCapital University (UC-410-02)\nSpring 2022\nInstructor: Introduction to Ethics (3-credit undergraduate course)\nCapital University (UC-170-01, UC-170-02)\nFall 2020"
+  },
+  {
+    "objectID": "cv.html#bibliography",
+    "href": "cv.html#bibliography",
+    "title": "Curriculum Vitae",
+    "section": "Bibliography",
+    "text": "Bibliography\nFor the most up-to-date information, visit my ORCiD Profile to see my full list of publications."
+  },
+  {
+    "objectID": "cv.html#abstracts-and-posters",
+    "href": "cv.html#abstracts-and-posters",
+    "title": "Curriculum Vitae",
+    "section": "Abstracts and Posters",
+    "text": "Abstracts and Posters\n\nSankary LR, Zelinsky M, Webster HS, Lerner AJ, Martinez K, Miller JB, Ford PJ, Leverenz JB. Alzheimer’s Disease Research Participant Perspectives on the Return of Individual Research Results. Poster presented at: AAIC 2022, The Alzheimer’s Association International Conference; 2022 Jul 31-Aug 4, San Diego, California.\nMorley G, Copley D, Field R, Zelinsky M, Albert N. Responding to Ethical Issues and Operationalizing Nurses Insights to Develop Ethical Resilience. Poster presented at: AACN National Teaching Institute (NTI) & Critical Care Exposition; 2023 May 24, Philadelphia, Pennsylvania.\nMorley G, Copley D, Field R, Zelinsky M, Albert N. A Divided Community: A Descriptive Qualitative Study of the Impact of COVID-19 on Nurses and their Relationships. Poster presented at: 18th Annual Cleveland Clinic Nursing Research Conference; 2023 Apr 24-25, Cleveland, Ohio.\nMorley G, Copley D, Field R, Zelinsky M, Albert N. Responding to Ethical Issues during the COVID-19 Pandemic and Operationalizing Nurses Insights to Develop Ethical Resilience (RESPONDER): A Descriptive Qualitative Study. Poster presented at: 2023 ICU Operations Annual Summit; 2023 Mar 16, Cleveland, Ohio.\nSankary LR, Zelinsky M, Lindgren L, Ford PJ. Ethical Implications of Neurological Research Consent Adaptations Necessitated by the COVID-19 Pandemic. Abstract presented at: 2022 INS Annual Meeting, International Neuroethics Society: Bringing Neuroethics to Life Throughout Patient Care, Research, and Policy; 2022 Nov 2-4, Montreal, Canada.\nSankary LR, Zelinsky M, Knaggs C, Lerner AJ. Alzheimer’s Disease Research Participant Perspectives on the Return of Individual Research Results. Poster presented at: AAIC 2022, The Alzheimer’s Association International Conference; 2022 Jul 31-Aug 4, San Diego, California.\nMorley G, Copley D, Field R, Zelinsky M, Albert N. Responding to Ethical Issues during the COVID-19 Pandemic and Operationalizing Nurses Insights to Develop Ethical Resilience (RESPONDER): A Descriptive Qualitative Study. Poster presented at: 17th Annual Cleveland Clinic Clinical Nursing Research Conference; 2022 Apr 25-26, Cleveland, Ohio."
+  },
+  {
+    "objectID": "cv.html#awards-and-honors",
+    "href": "cv.html#awards-and-honors",
+    "title": "Curriculum Vitae",
+    "section": "Awards and Honors",
+    "text": "Awards and Honors\n\nAACN Research Poster Award: 2023\n99th Percentile in Teaching Evaluations, Capital University: Fall 2020, Spring 2021, Summer 2021, Fall 2021, Spring 2022\n\nAward for Outstanding Mentorship, Capital University Center for Excellence in Learning and Teaching: Fall 2021\n\nDean’s List, University of Pittsburgh: All semesters"
+  },
+  {
+    "objectID": "cv.html#additional-work-experience",
+    "href": "cv.html#additional-work-experience",
+    "title": "Curriculum Vitae",
+    "section": "Additional Work Experience",
+    "text": "Additional Work Experience\n\nCustomer Support Supervisor\nAerotek Recruiting and Staffing, Reading, PA\nDec 2011 – Jul 2017\nCustomer Support Analyst\nAerotek Recruiting and Staffing, York, PA\nJan 2011 – Dec 2011\nAdministrative Assistant\nAerotek Recruiting and Staffing, York, PA\nNov 2010 – Jan 2011"
   }
 ]

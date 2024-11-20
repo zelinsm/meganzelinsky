@@ -8,7 +8,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About Me
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: Curriculum Vitae
+      - href: publications.qmd
+        text: Publications
+      - href: ccp.qmd
+        text: Community Engagement
 
 format:
   html:
