@@ -24,6 +24,8 @@ website:
         text: Recent Publications
       - href: ccp.qmd
         text: Community Engagement
+      - href: blog.qmd
+        text: Blog
 
     right:
       - icon: linkedin

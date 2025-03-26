@@ -1,0 +1,31 @@
+---
+title: "Blog"
+---
+
+## Blog
+
+### 03/13/2025 | Why I’m Starting This Blog: Thoughts on Scientific Blogging from Jeff Leek and My Life in Neuroethics
+
+I have built my career at the intersection of clinical research and neuroethics, where every decision requires balancing rigor with empathy, and structure with nuance. When I read Jeff Leek’s chapter on scientific blogging in How to Be a Modern Scientist (Leek, 2016), I was struck by how clearly it captured the tensions I have often felt between visibility and vulnerability, between urgency and thoughtfulness, and between knowing when to speak and when to stay quiet.
+
+This blog is new, but the idea of starting it is not. I wanted my first post to engage directly with Leek’s reflections because they offer a thoughtful framework for considering what it means to write publicly as a scientist today. For those of us working on high-stakes issues such as surgical outcomes, translational science, and ethical research practices, the implications of online communication are even more complex.
+
+Leek describes several reasons why a scientist might blog. Some write to respond to criticism. Others use blogging as a tool to raise their professional profile or to document the process of learning and discovery. He is honest about the energy required to write thoughtfully while staying focused on research. But he also reminds us that blogging is no longer optional for many scientists. The conversations about our work are already happening online. The only question is whether we want to participate in those conversations intentionally.
+
+For clinical research, especially in neurosurgical outcomes, that intentionality matters. Our work does not live only in journals or datasets. It influences how patients make decisions, how clinicians interpret evidence, and how research translates into practice. Writing publicly, whether to reflect, explain, or question, is one way to remain accountable to the communities our work is meant to serve.
+
+I do not expect this blog to gain widespread attention, and I hope it never becomes the site of any online takedowns. But I do see it as an extension of my commitment to open, ethically grounded science. Here, I plan to explore questions that may not fit neatly into academic papers or protocols. I hope to reflect on the process of aligning research with patient values, to share insights from ongoing projects, and to write honestly about the complexities of doing meaningful clinical research.
+
+Leek also talks candidly about how the internet has changed the pace and tone of scientific discourse. Critiques are often immediate and sometimes harsh. He offers three responses to online criticism: respond quickly and publicly, respond slowly and academically, or not respond at all. These choices are not just about communication strategy; they are about identity and professional self-protection.
+
+This is one of the reasons I have never used X (formerly Twitter), even before its recent change in leadership. While I recognize that it can be a valuable platform for building community and sharing ideas, I have often hesitated to engage. I have seen colleagues use it effectively to promote their work and connect with collaborators, but I have also seen how quickly it can become combative or performative. In spaces where rapid commentary and viral disputes are rewarded, nuance can be lost. For someone working in ethically complex areas and frequently navigating patient stories or contested issues, that kind of visibility carries real risk.
+
+More importantly, I worry about what gets flattened or misunderstood in short-form spaces. Much of my work involves ambiguity: uncertainty in clinical outcomes, tensions between researcher goals and patient priorities, ethical questions that do not have clear answers. These are not topics that lend themselves well to tweets or threads. They require time, context, and reflection.
+
+Blogging allows room for complexity without demanding perfection. It creates space for open questions rather than polished conclusions, and it invites conversation over reaction. For me, it offers a slower, more intentional way to engage publicly with ideas that matter.
+
+Leek reminds us that blogging can also be an opportunity to catalog what we are working on. For me, that includes not only scientific questions but also the messy, uncertain, and deeply human dimensions of research. I hope this blog will serve as a space for thoughtful dialogue, critical reflection, and shared growth.
+
+### Reference
+
+-   Leek, J. (2016). *How to Be a Modern Scientist*. [Leanpub](https://leanpub.com/modernscientist).
