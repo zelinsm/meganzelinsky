@@ -5,7 +5,7 @@ subtitle: "Current as of: July 2025"
 
 Below is an overview of my education, research experience, and professional contributions. You can also download a complete version of my CV for more details.
 
-[Download CV](files/2024-03-megan-zelinsky-cv.pdf){.btn .btn-primary}
+[Download CV](files/2025-07-megan-zelinsky-cv.pdf){.btn .btn-primary}
 
 # Megan Zelinsky, MA, BS
 

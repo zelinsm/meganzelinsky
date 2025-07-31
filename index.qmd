@@ -22,19 +22,18 @@ I’d love to connect! You can reach me at:
 ## Find Me Online
 
 -   [LinkedIn](https://www.linkedin.com/in/megan-zelinsky-0468321b5/)
--   [\@CLEcatprojecton Instagram](https://www.instagram.com/clecatproject/)
+-   [GitHub](https://github.com/zelinsm)
+-   [ResearchGate](https://www.researchgate.net/profile/Megan-Zelinsky-3)
 
 ## Recent Highlights
 
 -   Pursuing my PhD in [Clinical Translational Science](https://case.edu/medicine/pqhs/education/clinical-and-translational-science/phd-clinical-translational-science-cts) at Case Western Reserve University.
 -   See my recent [Publications](publications.qmd).
--   Expanding our reach at [Cleveland Community Cat Project](https://www.communitycatproject.org).
 
 ## Education, Experience, and Projects
 
 Learn more:
 
--   [About Me](about.qmd)
 -   [Research Interests](research.qmd)
 -   [Curriculum Vitae](cv.qmd)
 

@@ -1,24 +1,25 @@
 ---
 title: "Curriculum Vitae"
-subtitle: "Current as of: March 2024"
-format: docx
+subtitle: "Current as of: July 2025"
+format: pdf
 ---
 
 # Megan Zelinsky, MA, BS
 
 # Education
 
--   **PhD in Clinical and Translational Science** *(In Progress)*\
+-   **PhD, Clinical Translational Science**, expected 2027\
+    Dissertation in progress: “Bridging Translational Science and Empirical Neuroethics to Align Neurosurgical Metrics with Patient-Centered Outcomes”\
+    Research focus: Translational neuroethics and patient-centered outcome selection in neurosurgery\
     Case Western Reserve University, Cleveland, OH\
     *2024 - Present*
 
--   **Master of Arts, Bioethics and Medical Humanities**, *summa cum laude*\
-    Thesis: "High-Intensity Focused Ultrasound for Parkinson Disease: Ethical Considerations in an Evolving Treatment Landscape"
-\
+-   **MA, Bioethics and Medical Humanities**\
+    Capstone: "High-Intensity Focused Ultrasound for Parkinson Disease: Ethical Considerations in an Evolving Treatment Landscape"\
     Case Western Reserve University, Cleveland, OH\
     *2019 - 2020*
 
--   **Bachelor of Science in Biological Sciences**, *summa cum laude*\
+-   **BS, Biological Sciences**, *summa cum laude*\
     University of Pittsburgh, Pittsburgh, PA\
     *2015 - 2018*
 
@@ -48,7 +49,7 @@ format: docx
 
 -   **Executive Director**\
     Cleveland Community Cat Project, Cleveland, OH\
-    *2019 - Current*
+    *2018 - Current*
 
 # Professional Activities
 
@@ -67,7 +68,28 @@ format: docx
 -   Society of Clinical Research Associates
 -   American Society for Bioethics and Humanities
 
-# Research Activities
+# Research and Quality Improvement Activities
+
+-   **“Evaluating Multidisciplinary Impact on Epilepsy Surgical Recommendations: A Quality Improvement Initiative Using Pre/Post Polling at Patient Management Conferences \[QA/QI\]”**\
+    Role: Collaborator\
+    *July 2025 - Present*
+
+-   **“Center for Neurological Restoration Functional Neurological Disorder Clinical Database \[QA/QI\]”**\
+    Role: Database Manager\
+    Funding: Philanthropy\
+    *Feb 2025 - Present*
+
+-   **“Provider Perspectives on the Use of Genetic Profiling in Deep Brain Stimulation Evaluation for Parkinson’s Disease”**\
+    Role: Co-investigator\
+    Funding: internal\
+    PI: Hubert Fernandez\
+    *Jan 2025 - Present*
+
+-   **“LGBTQ+ Inclusive Communication and Advance Care Planning”**\
+    Role: Data Analyst\
+    Funding: Advancing Interprofessional Learning Grant (EHEZ013)\
+    PI: Georgina Morley, PhD\
+    *Jan 2024 - July 2025*
 
 -   **“Novel Care Model for Treatment of Functional Movement Disorders: A Mixed-Methods Study Investigating the Role of Virtual Shared Medical Appointments”**\
     Role: Co-investigator\
@@ -235,6 +257,10 @@ For the most up-to-date information, visit my [ORCiD Profile](https://orcid.org/
 
 # Abstracts and Posters
 
+**Zelinsky M,** Anis S, Shuaib U, Hartwig E, Rush TE, Yu XX. Investigating the role of virtual shared medical appointments in functional movement disorder care: Survey study insights. Presented at: 30th World Congress on Parkinson’s Disease and Related Disorders; May 7-10, 2025; New York, NY. Parkinsonism Relat Disord. 2025.
+
+Sankary LR, Rico VR, **Zelinsky M**, Ford P. Capturing Embedded Ethics Contributions in Patient Selection: A Neurosurgical Ethics Database Project. Presented at: Sutter Health Clinical Ethics UnConference; Apr 23-25, San Francisco, California.
+
 Sankary LR, **Zelinsky M**, Webster HS, Lerner AJ, Martinez K, Miller JB, Ford PJ, Leverenz JB. Alzheimer’s Disease Research Participant Perspectives on the Return of Individual Research Results. Poster presented at: AAIC 2022, The Alzheimer’s Association International Conference; 2022 Jul 31-Aug 4, San Diego, California.
 
 Morley G, Copley D, Field R, **Zelinsky M**, Albert N. Responding to Ethical Issues and Operationalizing Nurses Insights to Develop Ethical Resilience. Poster presented at: AACN National Teaching Institute (NTI) & Critical Care Exposition; 2023 May 24, Philadelphia, Pennsylvania.
@@ -251,10 +277,15 @@ Morley G, Copley D, Field R, **Zelinsky M**, Albert N. Responding to Ethical Iss
 
 # Awards and Honors
 
+-   IAPRD Guided Poster Award: 2025
 -   AACN Research Poster Award: 2023
 -   99th Percentile in Teaching Evaluations, Capital University: Fall 2020, Spring 2021, Summer 2021, Fall 2021, Spring 2022
--   Award for Outstanding Mentorship, Capital University Center for Excellence in Learning and Teaching: Fall 2021
 -   Dean’s List, University of Pittsburgh: All semesters
+-   Best Undergraduate Capstone, University of Pittsburgh, 2017
+-   Student Leadership Award, University of Pittsburgh: 2017
+-   Student Research Day Best Abstract, University of Pittsburgh: Fall 2016
+-   Student Research Day Best Poster Presentation, University of Pittsburgh: Fall 2016, Spring 2017
+-   Distinguished Debate Performance, University of Pittsburgh: Fall 2015, Spring 2016, Fall 2017
 
 # Additional Work Experience
 
