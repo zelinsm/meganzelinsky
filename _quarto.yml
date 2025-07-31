@@ -6,7 +6,7 @@ website:
   title: "Megan Zelinsky"
   description: ""
   image: images/Headshot2021.jpg
-  favicon: images/favicon.png
+  favicon: images/favicon2.png
   
   navbar:
     pinned: true
@@ -24,8 +24,6 @@ website:
         text: Recent Publications
       - href: ccp.qmd
         text: Community Engagement
-      - href: blog.qmd
-        text: Blog
 
     right:
       - icon: linkedin

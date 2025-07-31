@@ -4,11 +4,11 @@ title: "Welcome!"
 
 ![](images/circle-headshot.png){.circle-photo}
 
-Hi, I’m **Megan Zelinsky**—a clinical researcher and neuroethicist dedicated to improving research and care for patients with neurological disorders. I specialize in patient-centered research, neurosurgical treatment outcomes, and ethical challenges in clinical and research settings. I work at the intersection of clinical research and ethics, with a focus on advancing meaningful outcomes for patients.
+Hi, I’m **Megan Zelinsky**—a researcher dedicated to improving research and care for patients with neurological disorders. I specialize in qualitative and mixed-methods research, neurosurgical treatment outcomes, and ethical challenges in clinical and research settings. I work at the intersection of clinical research and ethics, with a focus on advancing meaningful outcomes for patients.
 
-As a researcher at Cleveland Clinic Neurological Institute, I conduct qualitative analyses, support mixed-methods studies, and explore innovative approaches to aligning research practices with patient values. I am currently pursuing a PhD in Clinical and Translational Science at Case Western Reserve University, where I am building the expertise necessary to advance my work in neuroethics, refine measures of research efficacy, and bridge the gap between research findings and patient care. Grounded in the belief that ethics should guide every aspect of research and care, I also enjoy mentoring students, and lecturing in ethics and neuroethics at the undergraduate and graduate levels.
+As a Clinical Research Project Manager at Cleveland Clinic Neurological Institute, I conduct qualitative analyses, support mixed-methods studies, manage databases and registries, and explore innovative approaches to aligning research and clinical practices with patient values. I am currently pursuing a PhD in Clinical Translational Science at Case Western Reserve University, where I am building the expertise necessary to advance my work in neuroethics, refine measures of research efficacy, and bridge the gap between research findings and patient care. I also enjoy mentoring students, and lecturing in ethics and neuroethics at the undergraduate and graduate levels.
 
-I am passionate about integrating ethical principles and patient-centered perspectives into research practices, especially data management and analysis. With a background in biology and bioethics, I’ve dedicated my career to improving outcomes for patients with neurological disorders while advocating for animal welfare as the Executive Director of the Cleveland Community Cat Project.
+I am passionate about integrating ethical principles and patient-centered perspectives into research practices, especially data management and analysis, and dedicated to improving outcomes for patients with neurological disorders.
 
 When I’m not working on research or fostering kittens, I enjoy yoga, reading, and collaborating with like-minded professionals to create meaningful change in both human and animal health.
 
@@ -22,13 +22,13 @@ I’d love to connect! You can reach me at:
 ## Find Me Online
 
 -   [LinkedIn](https://www.linkedin.com/in/megan-zelinsky-0468321b5/)
--   [\@CLEcatproject](https://www.instagram.com/clecatproject/)[ on Instagram](https://www.instagram.com/clecatproject/)
+-   [\@CLEcatprojecton Instagram](https://www.instagram.com/clecatproject/)
 
 ## Recent Highlights
 
--   🎓 Pursuing my PhD in [Clinical and Translational Science](https://case.edu/medicine/pqhs/education/clinical-and-translational-science/phd-clinical-translational-science-cts) at Case Western Reserve University.
--   📄 See my recent [Publications](publications.qmd).
--   🐾 Expanding our reach at [Cleveland Community Cat Project](https://www.communitycatproject.org).
+-   Pursuing my PhD in [Clinical Translational Science](https://case.edu/medicine/pqhs/education/clinical-and-translational-science/phd-clinical-translational-science-cts) at Case Western Reserve University.
+-   See my recent [Publications](publications.qmd).
+-   Expanding our reach at [Cleveland Community Cat Project](https://www.communitycatproject.org).
 
 ## Education, Experience, and Projects
 

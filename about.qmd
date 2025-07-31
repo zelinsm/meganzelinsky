@@ -2,9 +2,9 @@
 title: "About Me"
 ---
 
-I work in the Center for Neurological Restoration at Cleveland Clinic Neurological Institute, where I collaborate on patient-centered research studies, conduct qualitative analyses, and integrate neuroethics into our research infrastructure. My work often explores ethical challenges in clinical and research settings, with a focus on vulnerable populations and novel neurosurgical procedures.
+I work as a Clinical Research Project Manager in the Center for Neurological Restoration at Cleveland Clinic Neurological Institute, where I collaborate on patient-centered research studies, conduct qualitative analyses, and integrate neuroethics into our research infrastructure. My work often explores ethical challenges in clinical and research settings, with a focus on potentially vulnerable populations and neurosurgical procedures.
 
-I hold a Master’s degree in Bioethics and Medical Humanities from Case Western Reserve University School of Medicine, where I completed over 240 hours of clinical and ethics rotations in Cleveland-area healthcare systems. My training focused on ethical issues impacting patients with neurological disease and included research ethics, study design, and empirical bioethics methods.
+I hold a Master’s degree in Bioethics and Medical Humanities from Case Western Reserve University School of Medicine, where I completed over 240 hours of clinical and ethics rotations in Cleveland-area healthcare systems. My training focused on ethical issues impacting patients with neurological disease and included research ethics, qualitative study design, and empirical bioethics methods.
 
 In addition to my research, I have lectured at both undergraduate and graduate levels and mentored students pursuing careers in clinical research and bioethics.
 

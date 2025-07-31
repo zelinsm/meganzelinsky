@@ -2,7 +2,7 @@
 title: "Research Interests"
 ---
 
-My research focuses on improving the outcomes and ethical frameworks associated with neurological and neurosurgical treatments, with an emphasis on patient-centered care and the translation of research findings into clinical practice.
+My research interests focus on improving the outcomes and ethical frameworks associated with neurological and neurosurgical treatments, with an emphasis on patient-centered care and the translation of research findings into clinical practice.
 
 ## Neurosurgical Outcomes
 
@@ -13,16 +13,16 @@ My research focuses on improving the outcomes and ethical frameworks associated 
 ## Neuroethics
 
 -   Examining the ethical challenges of patient selection for experimental neurosurgical procedures.
--   Addressing informed consent barriers in neurological and neurosurgical research, particularly for vulnerable populations.
+-   Addressing informed consent barriers in neurological and neurosurgical research, particularly for potentially vulnerable populations.
 -   Developing ethical frameworks to support decision-making and equitable access in translational neurological research.
 
 ## Patient-Centered Research
 
 -   Refining methods to integrate patient values into clinical and research settings, ensuring alignment between research priorities and patient expectations.
 -   Utilizing mixed-methods and qualitative research to capture the nuanced experiences of patients navigating neurological disorders.
--   Advancing the ethical design and implementation of shared medical appointments as innovative platforms for patient care.
+-   Advancing the ethical design and implementation of innovative platforms for patient care.
 
-## Translational Research
+## Translational Science
 
 -   Bridging the gap between clinical and research practices to enhance the relevance and utility of research findings in patient care.
 -   Investigating the process of measure selection in translational neuroscience to ensure outcomes are meaningful to patients and stakeholders.
